@@ -32,7 +32,7 @@ export default function HistoryScreen() {
       )}
       ListEmptyComponent={
         <View style={styles.listEmptyContainer}>
-          <Text>Your shopping list is empty</Text>
+          <Text>This list is prehistoric</Text>
         </View>
       }
     />
